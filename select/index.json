@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "捨てられたもの捨てるもの",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T08:04:19.959599Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "捨てられたもの捨てるもの (feat. Lucia & 本宮瑠華)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_捨てられたもの捨てるもの_(feat._Lucia_&_本宮瑠華)_未来古代楽団.txt"
+    }
+  ]
+}
